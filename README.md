@@ -1,2 +1,2 @@
 # Deep-Learning
-This repository contains codes for Deep Learning algorithm
+Implemented Deep Learning model from scratch. Contains U-Net with Attention gate, Inception Net, CBOW and Neural Networks from scratch using Numpy, Tensor Flow and PyTorch.
